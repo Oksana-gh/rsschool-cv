@@ -1,1 +1,1 @@
-<https://oksana-gh.github.io/rsschool-cv/cv>
+<https://oksana-gh.github.io/rsschool-cv-html>
